@@ -1,3 +1,14 @@
+Eksempel på bruk
+Run main metod in Program class
+
+```cmd
+Please enter a number you want to convert to Roman number
+387
+The roman value of 387 is CCCLXXXVII
+
+```
+
+
 # Innlevering 1: Programmeringsferdigheter
 
 ## Oppgave
