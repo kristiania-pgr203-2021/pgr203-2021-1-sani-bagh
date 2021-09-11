@@ -47,4 +47,10 @@ public class ConvertToRomanTest {
         String res = ConvertToRoman.toRoman(4000);
         assertEquals("Invalid Roman number", res);
     }
+
+    @Test
+    void shouldConvert937ToCMXXXVII() {
+        String res = ConvertToRoman.toRoman(937);
+        assertEquals("CMXXXVII", res);
+    }
 }
