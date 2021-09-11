@@ -23,4 +23,10 @@ public class ConvertToRomanTest {
         String res = ConvertToRoman.toRoman(14);
         assertEquals("XIV", res);
     }
+
+    @Test
+    void shouldConvert40ToXL() {
+        String res = ConvertToRoman.toRoman(40);
+        assertEquals("XL", res);
+    }
 }
