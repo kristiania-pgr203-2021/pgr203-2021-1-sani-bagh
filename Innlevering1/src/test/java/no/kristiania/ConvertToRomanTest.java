@@ -41,4 +41,10 @@ public class ConvertToRomanTest {
         String res = ConvertToRoman.toRoman(555);
         assertEquals("DLV", res);
     }
+
+    @Test
+    void shouldConvert4000() {
+        String res = ConvertToRoman.toRoman(4000);
+        assertEquals("Invalid Roman number", res);
+    }
 }
