@@ -6,6 +6,10 @@ public class ConvertToRoman {
         if (number < 1 || number > 3999)
             return  "Invalid Roman number";
         String result = "";
+        while (number >= 900){
+            result += "CM";
+            number -= 900;
+        }
         while (number >= 500) {
             result += "D";
             number -= 500;
