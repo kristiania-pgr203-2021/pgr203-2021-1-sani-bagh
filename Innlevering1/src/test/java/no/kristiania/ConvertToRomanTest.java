@@ -53,4 +53,10 @@ public class ConvertToRomanTest {
         String res = ConvertToRoman.toRoman(937);
         assertEquals("CMXXXVII", res);
     }
+
+    @Test
+    void shouldConvert2400ToMMCD(){
+        String res = ConvertToRoman.toRoman(2400);
+        assertEquals("MMCD", res);
+    }
 }
