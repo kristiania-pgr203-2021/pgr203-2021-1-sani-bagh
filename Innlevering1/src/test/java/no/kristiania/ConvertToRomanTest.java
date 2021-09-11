@@ -35,4 +35,10 @@ public class ConvertToRomanTest {
         String res = ConvertToRoman.toRoman(90);
         assertEquals("XC", res);
     }
+
+    @Test
+    void shouldConvert555ToDLV() {
+        String res = ConvertToRoman.toRoman(555);
+        assertEquals("DLV", res);
+    }
 }
