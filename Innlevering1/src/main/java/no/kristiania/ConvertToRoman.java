@@ -4,7 +4,14 @@ public class ConvertToRoman {
 
     public static String toRoman(int number) {
         String result = "";
-
+        while (number >= 10) {
+            result += "X";
+            number -= 10;
+        }
+        while (number >= 9) {
+            result += "IX";
+            number -= 9;
+        }
         while (number >= 5) {
             result += "V";
             number -= 5;
