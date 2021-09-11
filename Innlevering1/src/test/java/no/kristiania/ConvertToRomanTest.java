@@ -17,4 +17,10 @@ public class ConvertToRomanTest {
         String res = ConvertToRoman.toRoman(6);
         assertEquals("VI", res);
     }
+
+    @Test
+    void shouldConvert14ToXIV() {
+        String res = ConvertToRoman.toRoman(14);
+        assertEquals("XIV", res);
+    }
 }
