@@ -4,6 +4,10 @@ public class ConvertToRoman {
 
     public static String toRoman(int number) {
         String result = "";
+        while (number >= 40) {
+            result += "XL";
+            number -= 40;
+        }
         while (number >= 10) {
             result += "X";
             number -= 10;
