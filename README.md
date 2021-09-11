@@ -54,7 +54,7 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
   * [ ] Dere har mottatt code review fra medstudenter
   * [x] `.idea`, `*.iml` og `target` er lagt til i .gitignore og ikke sjekket inn
   * [x] Github Actions rapporterer at 100% av testene kjører grønt
-  * [ ] GitHub Actions skal ha `timeout` på bygget
+  * [x] GitHub Actions skal ha `timeout` på bygget
   * [ ] Dere har opprettet og resolved GitHub issues med link til commits
 * Kode
   * [x] Koden skal være korrekt strukturert etter Maven sine standarder (koden skal ligge under `src/main/java` og tester under `src/test/java`)
