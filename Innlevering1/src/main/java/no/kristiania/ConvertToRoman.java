@@ -3,6 +3,8 @@ package no.kristiania;
 public class ConvertToRoman {
 
     public static String toRoman(int number) {
+        if (number < 1 || number > 3999)
+            return  "Invalid Roman number";
         String result = "";
         while (number >= 500) {
             result += "D";
