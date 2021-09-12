@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/kristiania-pgr203-2021/pgr203-2021-1-sani-bagh/actions/workflows/maven2.yml/badge.svg)](https://github.com/kristiania-pgr203-2021/pgr203-2021-1-sani-bagh/actions/workflows/maven2.yml)
+
 ### Video av parprogrammering
 
 https://www.youtube.com/watch?v=MF539kfCKrk
