@@ -54,7 +54,7 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
   * [x] GitHub repository er private. Dere skal gi tilgang til de som gir code review
 * Github
   * [x] Dere har en Git branch som viser parprogrammering der dere sjekker inn annenhver gang
-  * [ ] Dere har mottatt code review fra medstudenter
+  * [x] Dere har mottatt code review fra medstudenter
   * [x] `.idea`, `*.iml` og `target` er lagt til i .gitignore og ikke sjekket inn
   * [x] Github Actions rapporterer at 100% av testene kjører grønt
   * [x] GitHub Actions skal ha `timeout` på bygget
