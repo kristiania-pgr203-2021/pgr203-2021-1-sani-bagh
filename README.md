@@ -2,7 +2,7 @@
 
 ### Video av parprogrammering
 
-[Link til video]{https://www.youtube.com/watch?v=MF539kfCKrk}
+[Link til video](https://www.youtube.com/watch?v=MF539kfCKrk)
 
 
 
