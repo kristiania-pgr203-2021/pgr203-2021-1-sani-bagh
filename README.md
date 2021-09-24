@@ -2,7 +2,7 @@
 
 ### Video av parprogrammering
 
-https://www.youtube.com/watch?v=MF539kfCKrk
+[Link til video](https://www.youtube.com/watch?v=MF539kfCKrk)
 
 
 
@@ -48,8 +48,8 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
 ## Krav til innlevering
 
 * Innlevering
-  * [ ] Begge har levert link til Github Repository i Canvas
-  * [ ] Dere har lastet opp zip-fil på Canvas
+  * [x] Begge har levert link til Github Repository i Canvas
+  * [x] Dere har lastet opp zip-fil på Canvas
   * [x] Koden er sjekket inn på et repository på https://github.com/kristiania-pgr203-2021
   * [x] GitHub repository er private. Dere skal gi tilgang til de som gir code review
 * Github
@@ -68,7 +68,7 @@ Det anbefales at dere bruker Discord og Github for remote parprogrammering og ta
   * [x] Koden kan oversette alle romertall fra 1-3999 (fra I til MMMCMXCIX)
 * README-fil
   * [x] Link til video av parprogrammering
-  * [ ] Korrekt GitHub Actions status badge
+  * [x] Korrekt GitHub Actions status badge
   * [x] Eksempel på bruk
 * Video av parprogrammering viser:
   * [x] Den som skriver en test gir koden til den andre for å få testen til å passere
